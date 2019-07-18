@@ -1,3 +1,5 @@
-Stock market trends predicition based on Edunoix machine learning by parts project
+Stock market clustering uing K means algorithm and PCA dimensional analysis
 
-Work still in progress due to issues in data collection from websites
+Used Quandl API to get the data and did some cleaning of the data, and some fine tuning before normalising with the help of a pipeline and using K means clustering algorithm to divide it into clusters
+
+Used Google Collab to complete the project and comments have been added at regular intervals as well for ease of work purpose
