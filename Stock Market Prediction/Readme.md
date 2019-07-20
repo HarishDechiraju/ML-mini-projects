@@ -6,4 +6,3 @@ Used Google Collab to complete the project and comments have been added at regul
 
 NOTE- The API key has been resetted and for unlimited access of WIKI/PRICES create a free account on Quandl.com without which the number of calls would be restricted to 50
 
-You can view this on Google Collab here - "https://colab.research.google.com/drive/1JLMlHfYh2TWMABTzkuJjHXXUzmHwSJqY"
