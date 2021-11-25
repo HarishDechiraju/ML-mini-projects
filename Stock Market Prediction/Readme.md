@@ -1,4 +1,4 @@
-Stock market clustering uing K means algorithm and PCA dimensional analysis
+Stock market clustering using K means algorithm and PCA dimensional analysis
 
 Used Quandl API to get the data and did some cleaning of the data, and some fine tuning before normalising with the help of a pipeline and using K means clustering algorithm to divide it into clusters
 
